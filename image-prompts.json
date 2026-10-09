@@ -1,0 +1,16 @@
+{
+  "status": "Nano Banana connection pending; images not generated",
+  "model": "Nano Banana",
+  "assets": [
+    {
+      "name": "running-review-cover.png",
+      "usage": "표지 우측 이미지; index.html의 assets/running-graphic.svg 경로 교체",
+      "prompt": "Wide editorial illustration, aspect ratio 4:3. A blue running track curves around translucent review cards and a minimal running shoe, connecting physical running with thoughtful review analysis. Cool white background, marine blue #176eac and muted teal #087f83, soft dimensional paper forms, restrained sport laboratory aesthetic. Composition concentrated on the right, quiet left margin. No text, no numbers, no logos, no brands, no invented data charts. High clarity for a professional Korean data-analysis presentation."
+    },
+    {
+      "name": "running-community.png",
+      "usage": "外部 트렌드 슬라이드의 보조 이미지로 선택 사용; 현 구성에서는 생략",
+      "prompt": "Editorial photo illustration of a small diverse adult recreational running group on a riverside city trail at morning, side view, relaxed community run, unbranded blue and teal sportswear, white sky and soft neutral city context. Horizontal 16:9 crop. No logos, no text, no product endorsement, no charts. Natural proportions and approachable mood."
+    }
+  ]
+}
